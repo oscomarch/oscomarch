@@ -2,6 +2,11 @@
   github.com/oscomarch — profile README
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
+  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
+</picture>
+
 <p align="center">
 <a href="https://oscomarch.com"><img src="https://img.shields.io/badge/oscomarch.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
