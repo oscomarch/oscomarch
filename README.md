@@ -21,7 +21,7 @@
 
 ```
 Name           ░░░░░░░░░░  Oscar
-Role           ░░░░░░░░░░  Founder
-Currently      ░░░░░░░░░░  Building Reno at Nao Labs (YC X25) — neighborhood marketplace for home services
+Role           ░░░░░░░░░░  Founder's Associate @ Nao Labs (YC X25)
+Interests      ░░░░░░░░░░  Building projects, GTM, strategy
 Location       ░░░░░░░░░░  Paris, France
 ```
